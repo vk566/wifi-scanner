@@ -1,0 +1,4 @@
+models/
+__pycache__/
+*.pyc
+rf_scan_export.json
